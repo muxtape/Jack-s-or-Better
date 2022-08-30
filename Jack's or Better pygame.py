@@ -36,6 +36,7 @@ TEXT10 = SMALLFONT3.render('Main Menu',True, (255, 0, 0))
 RESIZE_WIDTH, RESIZE_HEIGHT = 100, 150
 
 #asset loading and resizing
+#download needed from https://code.google.com/archive/p/vector-playing-cards/ for the cards to show up
 C1_image = pygame.image.load(os.path.join('PNG-cards-1.3','ace_of_clubs.png'))
 C1 = pygame.transform.scale(C1_image, (RESIZE_WIDTH, RESIZE_HEIGHT))
 D1_image = pygame.image.load(os.path.join('PNG-cards-1.3','ace_of_diamonds.png'))
