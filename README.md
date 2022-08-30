@@ -1,7 +1,7 @@
 # Jack-s-or-Better
 Simulating the jack's or better video poker game!
 
-This programm is simulating one of the classic video poker games, the Jack's or Better video poker game.
+This program is simulating one of the classic video poker games, the Jack's or Better video poker game.
 
 This video poker game mimics the game of Five Card Draw.
 In Five Card Draw, the player is dealt five cards out of deck.
